@@ -1,1 +1,2 @@
-Hello welcome to Devops
+Hello welcome to DevOps
+DevOps is Wonderful Course
